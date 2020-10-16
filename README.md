@@ -1,7 +1,7 @@
 DNX
 ===
 
-## This repository is obsolete and no longer used or maintained.
+## This Repository is Obsolete and no longer used or maintained.
 
 
  DNX and DNVM have been replaced by the new .NET CLI. See:
